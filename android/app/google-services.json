@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "22515296605",
+    "project_id": "startsafeint",
+    "storage_bucket": "startsafeint.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:22515296605:android:068d5c1da40a6de27b60b4",
+        "android_client_info": {
+          "package_name": "com.ssi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOV5Wv4D4ZPfdTUQxy22eQCXxGhuRUCYk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
